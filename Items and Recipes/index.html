@@ -66,7 +66,7 @@
 
             var line = d3.svg.line.radial()
                 .interpolate("bundle")
-                .tension(.85)
+                .tension(.7)
                 .radius(function(d) { return d.y; })
                 .angle(function(d) { return d.x / 180 * Math.PI; });
 
@@ -93,6 +93,7 @@
                   .attr("d", line);
 
               node = node
+                  // .data(nodes.filter(function(n) { return !n.children && !(n.name.substring(0,5) == "item2") && !(n.name.substring(0,4) == "too2"); }))
                   .data(nodes.filter(function(n) { return !n.children; }))
                 .enter().append("text")
                   .attr("class", "node")
@@ -100,7 +101,7 @@
                   .attr("transform", function(d) { return "rotate(" + (d.x - 90) + ")translate(" + (d.y + 8) + ",0)" + (d.x < 180 ? "" : "rotate(180)"); })
                   .style("text-anchor", function(d) { return d.x < 180 ? "start" : "end"; })
                   .text(function(d) { return d.key; })
-                  .style("fill", function(d) { console.log(d); if (d.name.substring(0,5) == "owned") return "black"; else if (d.name.substring(0,4) == "item") return "brown"; else return "lightgray"; })
+                  .style("fill", function(d) { if (d.name.substring(0,5) == "owned") return "black"; else if (d.name.substring(0,5) == "item2") return "tan"; else if (d.name.substring(0,4) == "item") return "saddlebrown"; else if(d.name.substring(0,4) == "too2") return "lightgray"; else return "gray"; })
                   .on("mouseover", mouseovered)
                   .on("mouseout", mouseouted);
             });
