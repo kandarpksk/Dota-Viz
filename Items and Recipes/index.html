@@ -79,8 +79,7 @@
             var link = svg.append("g").selectAll(".link"),
                 node = svg.append("g").selectAll(".node");
 
-            // d3.json("data.json", function(error, classes) {
-            d3.json("modified_data.json", function(error, classes) {
+            d3.json("data.json", function(error, classes) {
               if (error) throw error;
 
               var nodes = cluster.nodes(packageHierarchy(classes)),
