@@ -44,10 +44,10 @@
 			"item.SagesMask"
 		]
 	},
-	{ "name" : "item.PhaseBoots",
+	{ "name" : "too.PhaseBoots",
 	  "size" : 1240,
 	  "imports" : [
-			"item.BootsOfSpeed",
+			"owned.BootsOfSpeed",
 			"item.BladesOfAttack",
 			"item.BladesOfAttack"
 		]
@@ -55,12 +55,12 @@
 	{ "name" : "item.PowerTreads",
 	  "size" : 1350,
 	  "imports" : [
-			"item.BootsOfSpeed",
+			"owned.BootsOfSpeed",
 			"item.GlovesOfHaste",
-			"item.BeltOfStrength"
+			"owned.BeltOfStrength"
 		]
 	},
-	{ "name" : "item.OblivionStaff",
+	{ "name" : "too.OblivionStaff",
 	  "size" : 1650,
 	  "imports" : [
 			"item.Quarterstaff",
@@ -68,30 +68,30 @@
 			"item.SagesMask"
 		]
 	},
-	{ "name" : "item.Perseverance",
+	{ "name" : "too.Perseverance",
 	  "size" : 1700,
 	  "imports" : [
 			"item.RingOfHealth",
 			"item.VoidStone"
 		]
 	},
-	{ "name" : "item.HandOfMidas",
+	{ "name" : "too.HandOfMidas",
 	  "size" : 2050,
 	  "imports" : [
 			"item.GlovesOfHaste"
 		]
 	},
-	{ "name" : "item.BootsOfTravel",
+	{ "name" : "too.BootsOfTravel",
 	  "size" : 2450,
 	  "imports" : [
-			"item.BootsOfSpeed"
+			"owned.BootsOfSpeed"
 		]
 	},
-	{ "name" : "item.MoonShard",
+	{ "name" : "too.MoonShard",
 	  "size" : 4000,
 	  "imports" : [
-			"item.Hyperstone",
-			"item.Hyperstone"
+			"too.Hyperstone",
+			"too.Hyperstone"
 		]
 	},
 	{ "name" : "item.RingOfBasilius",
@@ -122,7 +122,7 @@
 			"item.IronBranch"
 		]
 	},
-	{ "name" : "item.UrnOfShadows",
+	{ "name" : "too.UrnOfShadows",
 	  "size" : 875,
 	  "imports" : [
 			"item.SagesMask",
@@ -133,270 +133,270 @@
 	{ "name" : "item.TranquilBoots",
 	  "size" : 925,
 	  "imports" : [
-			"item.BootsOfSpeed",
+			"owned.BootsOfSpeed",
 			"item.RingOfProtection",
 			"item.RingOfRegen"
 		]
 	},
-	{ "name" : "item.RingOfAquila",
+	{ "name" : "too.RingOfAquila",
 	  "size" : 985,
 	  "imports" : [
 			"item.WraithBand",
 			"item.RingOfBasilius"
 		]
 	},
-	{ "name" : "item.MedallionOfCourage",
+	{ "name" : "too.MedallionOfCourage",
 	  "size" : 1200,
 	  "imports" : [
 			"item.Chainmail",
 			"item.SagesMask"
 		]
 	},
-	{ "name" : "item.ArcaneBoots",
+	{ "name" : "too.ArcaneBoots",
 	  "size" : 1300,
 	  "imports" : [
-			"item.BootsOfSpeed",
-			"item.EnergyBooster"
+			"owned.BootsOfSpeed",
+			"too.EnergyBooster"
 		]
 	},
-	{ "name" : "item.DrumOfEndurance",
+	{ "name" : "too.DrumOfEndurance",
 	  "size" : 1850,
 	  "imports" : [
 			"item.Bracer",
 			"item.RobeOfTheMagi"
 		]
 	},
-	{ "name" : "item.Mekansm",
+	{ "name" : "too.Mekansm",
 	  "size" : 2300,
 	  "imports" : [
 			"item.Buckler",
 			"item.Headdress"
 		]
 	},
-	{ "name" : "item.VladmirsOffering",
+	{ "name" : "too.VladmirsOffering",
 	  "size" : 2300,
 	  "imports" : [
-			"item.MorbidMask",
+			"too.MorbidMask",
 			"item.RingOfBasilius",
 			"item.Headdress"
 		]
 	},
-	{ "name" : "item.PipeOfInsight",
+	{ "name" : "too.PipeOfInsight",
 	  "size" : 3525,
 	  "imports" : [
-			"item.HoodOfDefiance",
+			"too.HoodOfDefiance",
 			"item.Headdress"
 		]
 	},
-	{ "name" : "item.GuardianGreaves",
+	{ "name" : "too.GuardianGreaves",
 	  "size" : 5350,
 	  "imports" : [
-			"item.Mekansm",
-			"item.ArcaneBoots"
+			"too.Mekansm",
+			"too.ArcaneBoots"
 		]
 	},
-	{ "name" : "item.GlimmerCape",
+	{ "name" : "too.GlimmerCape",
 	  "size" : 1950,
 	  "imports" : [
-			"item.ShadowAmulet",
+			"too.ShadowAmulet",
 			"item.Cloak"
 		]
 	},
-	{ "name" : "item.ForceStaff",
+	{ "name" : "too.ForceStaff",
 	  "size" : 2250,
 	  "imports" : [
-			"item.StaffOfWizardry",
+			"too.StaffOfWizardry",
 			"item.RingOfRegen"
 		]
 	},
-	{ "name" : "item.VeilOfDiscord",
+	{ "name" : "too.VeilOfDiscord",
 	  "size" : 2270,
 	  "imports" : [
-			"item.HelmOfIronWill",
+			"too.HelmOfIronWill",
 			"item.NullTalisman",
 			"item.RobeOfTheMagi",
 			"item.RobeOfTheMagi" 
 		]
 	},
-	{ "name" : "item.AetherLens",
+	{ "name" : "too.AetherLens",
 	  "size" : 2350,
 	  "imports" : [
-			"item.EnergyBooster",
+			"too.EnergyBooster",
 			"item.RingOfHealth",
 			"item.Cloak"
 		]
 	},
-	{ "name" : "item.Necronomicon",
+	{ "name" : "too.Necronomicon",
 	  "size" : 2650,
 	  "imports" : [
-			"item.StaffOfWizardry",
-			"item.BeltOfStrength"
+			"too.StaffOfWizardry",
+			"owned.BeltOfStrength"
 		]
 	},
-	{ "name" : "item.Dagon",
+	{ "name" : "too.Dagon",
 	  "size" : 2730,
 	  "imports" : [
-			"item.StaffOfWizardry",
+			"too.StaffOfWizardry",
 			"item.NullTalisman"
 		]
 	},
-	{ "name" : "item.EulsScepterOfDivinity",
+	{ "name" : "too.EulsScepterOfDivinity",
 	  "size" : 2825,
 	  "imports" : [
-			"item.StaffOfWizardry",
+			"too.StaffOfWizardry",
 			"item.SagesMask",
 			"item.VoidStone"
 		]
 	},
-	{ "name" : "item.SolarCrest",
+	{ "name" : "too.SolarCrest",
 	  "size" : 3000,
 	  "imports" : [
-			"item.MedallionOfCourage",
-			"item.TalismanOfEvasion"
+			"too.MedallionOfCourage",
+			"too.TalismanOfEvasion"
 		]
 	},
-	{ "name" : "item.RodOfAtos",
+	{ "name" : "too.RodOfAtos",
 	  "size" : 3100,
 	  "imports" : [
-			"item.StaffOfWizardry",
-			"item.StaffOfWizardry",
-			"item.VitalityBooster"
+			"too.StaffOfWizardry",
+			"too.StaffOfWizardry",
+			"too.VitalityBooster"
 		]
 	},
-	{ "name" : "item.OrchidMalevolence",
+	{ "name" : "too.OrchidMalevolence",
 	  "size" : 4125,
 	  "imports" : [
-			"item.OblivionStaff",
-			"item.OblivionStaff"
+			"too.OblivionStaff",
+			"too.OblivionStaff"
 		]
 	},
-	{ "name" : "item.AghanimsScepter",
+	{ "name" : "too.AghanimsScepter",
 	  "size" : 4200,
 	  "imports" : [
-			"item.PointBooster",
-			"item.OgreClub",
-			"item.BladeOfAlacrity",
-			"item.StaffOfWizardry" 
+			"too.PointBooster",
+			"owned.OgreClub",
+			"owned.BladeOfAlacrity",
+			"too.StaffOfWizardry" 
 		]
 	},
-	{ "name" : "item.RefresherOrb",
+	{ "name" : "too.RefresherOrb",
 	  "size" : 5300,
 	  "imports" : [
-			"item.Perseverance",
-			"item.Perseverance"
+			"too.Perseverance",
+			"too.Perseverance"
 		]
 	},
-	{ "name" : "item.ScytheOfVyse",
+	{ "name" : "too.ScytheOfVyse",
 	  "size" : 5650,
 	  "imports" : [
-			"item.MysticStaff",
-			"item.UltimateOrb",
+			"too.MysticStaff",
+			"too.UltimateOrb",
 			"item.VoidStone"
 		]
 	},
-	{ "name" : "item.OctarineCore",
+	{ "name" : "too.OctarineCore",
 	  "size" : 5900,
 	  "imports" : [
-			"item.MysticStaff",
-			"item.SoulBooster"
+			"too.MysticStaff",
+			"too.SoulBooster"
 		]
 	},
-	{ "name" : "item.Crystalys",
+	{ "name" : "too.Crystalys",
 	  "size" : 2120,
 	  "imports" : [
-			"item.Broadsword",
+			"too.Broadsword",
 			"item.BladesOfAttack"
 		]
 	},
-	{ "name" : "item.ArmletOfMordiggian",
+	{ "name" : "too.ArmletOfMordiggian",
 	  "size" : 2320,
 	  "imports" : [
-			"item.HelmOfIronWill",
+			"too.HelmOfIronWill",
 			"item.GlovesOfHaste",
 			"item.BladesOfAttack"
 		]
 	},
-	{ "name" : "item.ShadowBlade",
+	{ "name" : "too.ShadowBlade",
 	  "size" : 2800,
 	  "imports" : [
-			"item.Claymore",
-			"item.ShadowAmulet"
+			"too.Claymore",
+			"too.ShadowAmulet"
 		]
 	},
-	{ "name" : "item.SkullBasher",
+	{ "name" : "too.SkullBasher",
 	  "size" : 2700,
 	  "imports" : [
-			"item.Javelin",
-			"item.BeltOfStrength"
+			"too.Javelin",
+			"owned.BeltOfStrength"
 		]
 	},
-	{ "name" : "item.BattleFury",
+	{ "name" : "too.BattleFury",
 	  "size" : 4500,
 	  "imports" : [
-			"item.Claymore",
-			"item.Broadsword",
-			"item.Perseverance",
+			"too.Claymore",
+			"too.Broadsword",
+			"too.Perseverance",
 			"item.QuellingBlade"
 		]
 	},
-	{ "name" : "item.EtherealBlade",
+	{ "name" : "too.EtherealBlade",
 	  "size" : 4700,
 	  "imports" : [
-			"item.Eaglesong",
-			"item.GhostScepter"
+			"too.Eaglesong",
+			"too.GhostScepter"
 		]
 	},
-	{ "name" : "item.SilverEdge",
+	{ "name" : "too.SilverEdge",
 	  "size" : 5450,
 	  "imports" : [
-			"item.ShadowBlade",
+			"too.ShadowBlade",
 			"item.Sange"
 		]
 	},
-	{ "name" : "item.Radiance",
+	{ "name" : "too.Radiance",
 	  "size" : 5150,
 	  "imports" : [
-			"item.SacredRelic"
+			"too.SacredRelic"
 		]
 	},
-	{ "name" : "item.MonkeyKingBar",
+	{ "name" : "too.MonkeyKingBar",
 	  "size" : 5400,
 	  "imports" : [
-			"item.Javelin",
-			"item.Javelin",
-			"item.DemonEdge"
+			"too.Javelin",
+			"too.Javelin",
+			"too.DemonEdge"
 		]
 	},
-	{ "name" : "item.Daedalus",
+	{ "name" : "too.Daedalus",
 	  "size" : 5550,
 	  "imports" : [
-			"item.DemonEdge",
-			"item.Crystalys"
+			"too.DemonEdge",
+			"too.Crystalys"
 		]
 	},
-	{ "name" : "item.Butterfly",
+	{ "name" : "too.Butterfly",
 	  "size" : 5875,
 	  "imports" : [
-			"item.Eaglesong",
-			"item.TalismanOfEvasion",
+			"too.Eaglesong",
+			"too.TalismanOfEvasion",
 			"item.Quarterstaff"
 		]
 	},
-	{ "name" : "item.DivineRapier",
+	{ "name" : "too.DivineRapier",
 	  "size" : 6200,
 	  "imports" : [
-			"item.SacredRelic",
-			"item.DemonEdge"
+			"too.SacredRelic",
+			"too.DemonEdge"
 		]
 	},
-	{ "name" : "item.AbyssalBlade",
+	{ "name" : "too.AbyssalBlade",
 	  "size" : 6400,
 	  "imports" : [
-			"item.SkullBasher",
-			"item.Vanguard"
+			"too.SkullBasher",
+			"too.Vanguard"
 		]
 	},
-	{ "name" : "item.HoodOfDefiance",
+	{ "name" : "too.HoodOfDefiance",
 	  "size" : 2100,
 	  "imports" : [
 			"item.RingOfHealth",
@@ -405,246 +405,246 @@
 			"item.RingOfRegen"
 		]
 	},
-	{ "name" : "item.Vanguard",
+	{ "name" : "too.Vanguard",
 	  "size" : 2150,
 	  "imports" : [
 			"item.RingOfHealth",
-			"item.VitalityBooster",
+			"too.VitalityBooster",
 			"item.StoutShield"
 		]
 	},
-	{ "name" : "item.BladeMail",
+	{ "name" : "too.BladeMail",
 	  "size" : 2200,
 	  "imports" : [
-			"item.Broadsword",
+			"too.Broadsword",
 			"item.Chainmail",
 			"item.RobeOfTheMagi"
 		]
 	},
-	{ "name" : "item.SoulBooster",
+	{ "name" : "too.SoulBooster",
 	  "size" : 3200,
 	  "imports" : [
-			"item.PointBooster",
-			"item.VitalityBooster",
-			"item.EnergyBooster"
+			"too.PointBooster",
+			"too.VitalityBooster",
+			"too.EnergyBooster"
 		]
 	},
-	{ "name" : "item.CrimsonGuard",
+	{ "name" : "too.CrimsonGuard",
 	  "size" : 3575,
 	  "imports" : [
-			"item.Vanguard",
+			"too.Vanguard",
 			"item.Buckler"
 		]
 	},
-	{ "name" : "item.BlackKingBar",
+	{ "name" : "too.BlackKingBar",
 	  "size" : 3975,
 	  "imports" : [
-			"item.MithrilHammer",
-			"item.OgreClub"
+			"owned.MithrilHammer",
+			"owned.OgreClub"
 		]
 	},
-	{ "name" : "item.LotusOrb",
+	{ "name" : "too.LotusOrb",
 	  "size" : 4050,
 	  "imports" : [
-			"item.Perseverance",
-			"item.Platemail"
+			"too.Perseverance",
+			"too.Platemail"
 		]
 	},
-	{ "name" : "item.ShivasGuard",
+	{ "name" : "too.ShivasGuard",
 	  "size" : 4700,
 	  "imports" : [
-			"item.MysticStaff",
-			"item.Platemail"
+			"too.MysticStaff",
+			"too.Platemail"
 		]
 	},
-	{ "name" : "item.Bloodstone",
+	{ "name" : "too.Bloodstone",
 	  "size" : 4900,
 	  "imports" : [
-			"item.SoulBooster",
+			"too.SoulBooster",
 			"item.SoulRing"
 		]
 	},
-	{ "name" : "item.MantaStyle",
+	{ "name" : "too.MantaStyle",
 	  "size" : 4950,
 	  "imports" : [
-			"item.UltimateOrb",
+			"too.UltimateOrb",
 			"item.Yasha"
 		]
 	},
-	{ "name" : "item.LinkensSphere",
+	{ "name" : "too.LinkensSphere",
 	  "size" : 4800,
 	  "imports" : [
-			"item.Perseverance",
-			"item.UltimateOrb"
+			"too.Perseverance",
+			"too.UltimateOrb"
 		]
 	},
-	{ "name" : "item.AssaultCuirass",
+	{ "name" : "too.AssaultCuirass",
 	  "size" : 5250,
 	  "imports" : [
-			"item.Platemail",
-			"item.Hyperstone",
+			"too.Platemail",
+			"too.Hyperstone",
 			"item.Chainmail"
 		]
 	},
-	{ "name" : "item.HeartOfTarrasque",
+	{ "name" : "too.HeartOfTarrasque",
 	  "size" : 5500,
 	  "imports" : [
-			"item.Reaver",
-			"item.VitalityBooster"
+			"too.Reaver",
+			"too.VitalityBooster"
 		]
 	},
-	{ "name" : "item.MaskOfMadness",
+	{ "name" : "too.MaskOfMadness",
 	  "size" : 1800,
 	  "imports" : [
-			"item.MorbidMask"
+			"too.MorbidMask"
 		]
 	},
-	{ "name" : "item.HelmOfTheDominator",
+	{ "name" : "too.HelmOfTheDominator",
 	  "size" : 1800,
 	  "imports" : [
-			"item.HelmOfIronWill",
-			"item.MorbidMask"
+			"too.HelmOfIronWill",
+			"too.MorbidMask"
 		]
 	},
-	{ "name" : "item.DragonLance",
+	{ "name" : "too.DragonLance",
 	  "size" : 1875,
 	  "imports" : [
-			"item.OgreClub",
+			"owned.OgreClub",
 			"item.Quarterstaff"
 		]
 	},
 	{ "name" : "item.Sange",
 	  "size" : 2050,
 	  "imports" : [
-			"item.OgreClub",
-			"item.BeltOfStrength"
+			"owned.OgreClub",
+			"owned.BeltOfStrength"
 		]
 	},
-	{ "name" : "item.Yasha",
-	  "size" : 2050,
-	  "imports" : [
-			"item.BladeOfAlacrity",
-			"item.BandOfElvenskin"
-		]
-	},
-	{ "name" : "item.Maelstrom",
+	{ "name" : "too.Maelstrom",
 	  "size" : 2800,
 	  "imports" : [
-			"item.MithrilHammer",
+			"owned.MithrilHammer",
 			"item.GlovesOfHaste"
 		]
 	},
-	{ "name" : "item.DiffusalBlade",
+	{ "name" : "too.DiffusalBlade",
 	  "size" : 3150,
 	  "imports" : [
-			"item.BladeOfAlacrity",
-			"item.BladeOfAlacrity",
+			"owned.BladeOfAlacrity",
+			"owned.BladeOfAlacrity",
 			"item.RobeOfTheMagi" 
 		]
 	},
-	{ "name" : "item.Desolator",
+	{ "name" : "too.Desolator",
 	  "size" : 3500,
 	  "imports" : [
-			"item.MithrilHammer",
-			"item.MithrilHammer"
+			"owned.MithrilHammer",
+			"owned.MithrilHammer"
 		]
 	},
-	{ "name" : "item.HeavensHalberd",
+	{ "name" : "too.HeavensHalberd",
 	  "size" : 3850,
 	  "imports" : [
 			"item.Sange",
-			"item.TalismanOfEvasion"
+			"too.TalismanOfEvasion"
 		]
 	},
-	{ "name" : "item.SangeAndYasha",
+	{ "name" : "too.SangeAndYasha",
 	  "size" : 4100,
 	  "imports" : [
 			"item.Sange",
 			"item.Yasha"
 		]
 	},
-	{ "name" : "item.EyeOfSkadi",
+	{ "name" : "too.EyeOfSkadi",
 	  "size" : 5675,
 	  "imports" : [
-			"item.UltimateOrb",
-			"item.UltimateOrb",
-			"item.PointBooster",
+			"too.UltimateOrb",
+			"too.UltimateOrb",
+			"too.PointBooster",
 			"item.OrbOfVenom"
 		]
 	},
-	{ "name" : "item.Mjollnir",
+	{ "name" : "item.Yasha",
+	  "size" : 2050,
+	  "imports" : [
+			"owned.BladeOfAlacrity",
+			"owned.BandOfElvenskin"
+		]
+	},
+	{ "name" : "too.Mjollnir",
 	  "size" : 5600,
 	  "imports" : [
-			"item.Hyperstone",
-			"item.Maelstrom"
+			"too.Hyperstone",
+			"too.Maelstrom"
 		]
 	},
-	{ "name" : "item.Satanic",
+	{ "name" : "too.Satanic",
 	  "size" : 5950,
 	  "imports" : [
-			"item.Reaver",
-			"item.HelmOfTheDominator"
+			"too.Reaver",
+			"too.HelmOfTheDominator"
 		]
 	},
-	{ "name": "item.Clarity", "size" : 50, "imports" : [] },
-	{ "name": "item.FaerieFire", "size" : 75, "imports" : [] },
-	{ "name": "item.EnchantedMango", "size" : 125, "imports" : [] },
-	{ "name": "item.Tango", "size" : 125, "imports" : [] },
-	{ "name": "item.HealingSalve", "size" : 100, "imports" : [] },
-	{ "name": "item.SmokeOfDeceit", "size" : 50, "imports" : [] },
-	{ "name": "item.TownPortalScroll", "size" : 75, "imports" : [] },
-	{ "name": "item.DustOfAppearance", "size" : 180, "imports" : [] },
-	{ "name": "item.AnimalCourier", "size" : 100, "imports" : [] },
-	{ "name": "item.FlyingCourier", "size" : 150, "imports" : [] },
-	{ "name": "item.ObserverWard", "size" : 65, "imports" : [] },
-	{ "name": "item.SentryWard", "size" : 200, "imports" : [] },
-	{ "name": "item.Bottle", "size" : 660, "imports" : [] },
+	{ "name": "item2.Clarity", "size" : 50, "imports" : [] },
+	{ "name": "item2.FaerieFire", "size" : 75, "imports" : [] },
+	{ "name": "item2.EnchantedMango", "size" : 125, "imports" : [] },
+	{ "name": "item2.Tango", "size" : 125, "imports" : [] },
+	{ "name": "item2.HealingSalve", "size" : 100, "imports" : [] },
+	{ "name": "item2.SmokeOfDeceit", "size" : 50, "imports" : [] },
+	{ "name": "item2.TownPortalScroll", "size" : 75, "imports" : [] },
+	{ "name": "item2.DustOfAppearance", "size" : 180, "imports" : [] },
+	{ "name": "item2.AnimalCourier", "size" : 100, "imports" : [] },
+	{ "name": "item2.FlyingCourier", "size" : 150, "imports" : [] },
+	{ "name": "item2.ObserverWard", "size" : 65, "imports" : [] },
+	{ "name": "item2.SentryWard", "size" : 200, "imports" : [] },
+	{ "name": "item2.Bottle", "size" : 660, "imports" : [] },
 	{ "name": "item.IronBranch", "size" : 50, "imports" : [] },
 	{ "name": "item.GauntletsOfStrength", "size" : 150, "imports" : [] },
 	{ "name": "item.SlippersOfAgility", "size" : 150, "imports" : [] },
 	{ "name": "item.MantleOfIntelligence", "size" : 150, "imports" : [] },
 	{ "name": "item.Circlet", "size" : 165, "imports" : [] },
-	{ "name": "item.BeltOfStrength", "size" : 450, "imports" : [] },
-	{ "name": "item.BandOfElvenskin", "size" : 450, "imports" : [] },
+	{ "name": "owned.BeltOfStrength", "size" : 450, "imports" : [] },
+	{ "name": "owned.BandOfElvenskin", "size" : 450, "imports" : [] },
 	{ "name": "item.RobeOfTheMagi", "size" : 450, "imports" : [] },
-	{ "name": "item.OgreClub", "size" : 1000, "imports" : [] },
-	{ "name": "item.BladeOfAlacrity", "size" : 1000, "imports" : [] },
-	{ "name": "item.StaffOfWizardry", "size" : 1000, "imports" : [] },
+	{ "name": "owned.OgreClub", "size" : 1000, "imports" : [] },
+	{ "name": "owned.BladeOfAlacrity", "size" : 1000, "imports" : [] },
+	{ "name": "too.StaffOfWizardry", "size" : 1000, "imports" : [] },
 	{ "name": "item.RingOfProtection", "size" : 175, "imports" : [] },
 	{ "name": "item.QuellingBlade", "size" : 200, "imports" : [] },
 	{ "name": "item.OrbOfVenom", "size" : 275, "imports" : [] },
 	{ "name": "item.StoutShield", "size" : 200, "imports" : [] },
 	{ "name": "item.BladesOfAttack", "size" : 420, "imports" : [] },
 	{ "name": "item.Chainmail", "size" : 550, "imports" : [] },
-	{ "name": "item.HelmOfIronWill", "size" : 900, "imports" : [] },
-	{ "name": "item.Broadsword", "size" : 1200, "imports" : [] },
+	{ "name": "too.HelmOfIronWill", "size" : 900, "imports" : [] },
+	{ "name": "too.Broadsword", "size" : 1200, "imports" : [] },
 	{ "name": "item.Quarterstaff", "size" : 875, "imports" : [] },
-	{ "name": "item.Claymore", "size" : 1400, "imports" : [] },
-	{ "name": "item.Javelin", "size" : 1500, "imports" : [] },
-	{ "name": "item.MithrilHammer", "size" : 1600, "imports" : [] },
+	{ "name": "too.Claymore", "size" : 1400, "imports" : [] },
+	{ "name": "too.Javelin", "size" : 1500, "imports" : [] },
+	{ "name": "owned.MithrilHammer", "size" : 1600, "imports" : [] },
 	{ "name": "item.MagicStick", "size" : 200, "imports" : [] },
 	{ "name": "item.SagesMask", "size" : 325, "imports" : [] },
 	{ "name": "item.RingOfRegen", "size" : 325, "imports" : [] },
-	{ "name": "item.BootsOfSpeed", "size" : 400, "imports" : [] },
+	{ "name": "owned.BootsOfSpeed", "size" : 400, "imports" : [] },
 	{ "name": "item.GlovesOfHaste", "size" : 500, "imports" : [] },
 	{ "name": "item.Cloak", "size" : 550, "imports" : [] },
 	{ "name": "item.RingOfHealth", "size" : 850, "imports" : [] },
 	{ "name": "item.VoidStone", "size" : 850, "imports" : [] },
-	{ "name": "item.GemOfTrueSight", "size" : 900, "imports" : [] },
-	{ "name": "item.MorbidMask", "size" : 900, "imports" : [] },
-	{ "name": "item.ShadowAmulet", "size" : 1400, "imports" : [] },
-	{ "name": "item.GhostScepter", "size" : 1500, "imports" : [] },
-	{ "name": "item.BlinkDagger", "size" : 2250, "imports" : [] },
-	{ "name": "item.EnergyBooster", "size" : 900, "imports" : [] },
-	{ "name": "item.VitalityBooster", "size" : 1100, "imports" : [] },
-	{ "name": "item.PointBooster", "size" : 1200, "imports" : [] },
-	{ "name": "item.Platemail", "size" : 1400, "imports" : [] },
-	{ "name": "item.TalismanOfEvasion", "size" : 1800, "imports" : [] },
-	{ "name": "item.Hyperstone", "size" : 2000, "imports" : [] },
-	{ "name": "item.UltimateOrb", "size" : 2100, "imports" : [] },
-	{ "name": "item.DemonEdge", "size" : 2400, "imports" : [] },
-	{ "name": "item.MysticStaff", "size" : 2700, "imports" : [] },
-	{ "name": "item.Reaver", "size" : 3000, "imports" : [] },
-	{ "name": "item.Eaglesong", "size" : 3200, "imports" : [] },
-	{ "name": "item.SacredRelic", "size" : 3800, "imports" : [] }
+	{ "name": "too.GemOfTrueSight", "size" : 900, "imports" : [] },
+	{ "name": "too.MorbidMask", "size" : 900, "imports" : [] },
+	{ "name": "too.ShadowAmulet", "size" : 1400, "imports" : [] },
+	{ "name": "too.GhostScepter", "size" : 1500, "imports" : [] },
+	{ "name": "too.BlinkDagger", "size" : 2250, "imports" : [] },
+	{ "name": "too.EnergyBooster", "size" : 900, "imports" : [] },
+	{ "name": "too.VitalityBooster", "size" : 1100, "imports" : [] },
+	{ "name": "too.PointBooster", "size" : 1200, "imports" : [] },
+	{ "name": "too.Platemail", "size" : 1400, "imports" : [] },
+	{ "name": "too.TalismanOfEvasion", "size" : 1800, "imports" : [] },
+	{ "name": "too.Hyperstone", "size" : 2000, "imports" : [] },
+	{ "name": "too.UltimateOrb", "size" : 2100, "imports" : [] },
+	{ "name": "too.DemonEdge", "size" : 2400, "imports" : [] },
+	{ "name": "too.MysticStaff", "size" : 2700, "imports" : [] },
+	{ "name": "too.Reaver", "size" : 3000, "imports" : [] },
+	{ "name": "too.Eaglesong", "size" : 3200, "imports" : [] },
+	{ "name": "too.SacredRelic", "size" : 3800, "imports" : [] }
 ]
