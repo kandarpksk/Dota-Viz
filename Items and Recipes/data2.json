@@ -90,6 +90,8 @@
 	{ "name" : "too.MoonShard",
 	  "size" : 4000,
 	  "imports" : [
+			"too2.Hyperstone",
+			"too2.Hyperstone"
 		]
 	},
 	{ "name" : "item.RingOfBasilius",
@@ -153,7 +155,8 @@
 	{ "name" : "too.ArcaneBoots",
 	  "size" : 1300,
 	  "imports" : [
-			"owned.BootsOfSpeed"
+			"owned.BootsOfSpeed",
+			"too2.EnergyBooster"
 		]
 	},
 	{ "name" : "too.DrumOfEndurance",
@@ -173,6 +176,7 @@
 	{ "name" : "too.VladmirsOffering",
 	  "size" : 2300,
 	  "imports" : [
+			"too2.MorbidMask",
 			"item.RingOfBasilius",
 			"item.Headdress"
 		]
@@ -194,6 +198,7 @@
 	{ "name" : "too.GlimmerCape",
 	  "size" : 1950,
 	  "imports" : [
+			"too2.ShadowAmulet",
 			"item.Cloak"
 		]
 	},
@@ -207,6 +212,7 @@
 	{ "name" : "too.VeilOfDiscord",
 	  "size" : 2270,
 	  "imports" : [
+			"too2.HelmOfIronWill",
 			"item.NullTalisman",
 			"item.RobeOfTheMagi",
 			"item.RobeOfTheMagi" 
@@ -215,6 +221,7 @@
 	{ "name" : "too.AetherLens",
 	  "size" : 2350,
 	  "imports" : [
+			"too2.EnergyBooster",
 			"item.RingOfHealth",
 			"item.Cloak"
 		]
@@ -244,14 +251,16 @@
 	{ "name" : "too.SolarCrest",
 	  "size" : 3000,
 	  "imports" : [
-			"too.MedallionOfCourage"
+			"too.MedallionOfCourage",
+			"too2.TalismanOfEvasion"
 		]
 	},
 	{ "name" : "too.RodOfAtos",
 	  "size" : 3100,
 	  "imports" : [
 			"too.StaffOfWizardry",
-			"too.StaffOfWizardry"
+			"too.StaffOfWizardry",
+			"too2.VitalityBooster"
 		]
 	},
 	{ "name" : "too.OrchidMalevolence",
@@ -264,6 +273,7 @@
 	{ "name" : "too.AghanimsScepter",
 	  "size" : 4200,
 	  "imports" : [
+			"too2.PointBooster",
 			"owned.OgreClub",
 			"owned.BladeOfAlacrity",
 			"too.StaffOfWizardry" 
@@ -279,24 +289,29 @@
 	{ "name" : "too.ScytheOfVyse",
 	  "size" : 5650,
 	  "imports" : [
+			"too2.MysticStaff",
+			"too2.UltimateOrb",
 			"item.VoidStone"
 		]
 	},
 	{ "name" : "too.OctarineCore",
 	  "size" : 5900,
 	  "imports" : [
+			"too2.MysticStaff",
 			"too.SoulBooster"
 		]
 	},
 	{ "name" : "too.Crystalys",
 	  "size" : 2120,
 	  "imports" : [
+			"too2.Broadsword",
 			"item.BladesOfAttack"
 		]
 	},
 	{ "name" : "too.ArmletOfMordiggian",
 	  "size" : 2320,
 	  "imports" : [
+			"too2.HelmOfIronWill",
 			"item.GlovesOfHaste",
 			"item.BladesOfAttack"
 		]
@@ -304,17 +319,22 @@
 	{ "name" : "too.ShadowBlade",
 	  "size" : 2800,
 	  "imports" : [
+			"too2.Claymore",
+			"too2.ShadowAmulet"
 		]
 	},
 	{ "name" : "too.SkullBasher",
 	  "size" : 2700,
 	  "imports" : [
+			"too2.Javelin",
 			"owned.BeltOfStrength"
 		]
 	},
 	{ "name" : "too.BattleFury",
 	  "size" : 4500,
 	  "imports" : [
+			"too2.Claymore",
+			"too2.Broadsword",
 			"too.Perseverance",
 			"item.QuellingBlade"
 		]
@@ -322,6 +342,8 @@
 	{ "name" : "too.EtherealBlade",
 	  "size" : 4700,
 	  "imports" : [
+			"too2.Eaglesong",
+			"too2.GhostScepter"
 		]
 	},
 	{ "name" : "too.SilverEdge",
@@ -334,28 +356,37 @@
 	{ "name" : "too.Radiance",
 	  "size" : 5150,
 	  "imports" : [
+			"too2.SacredRelic"
 		]
 	},
 	{ "name" : "too.MonkeyKingBar",
 	  "size" : 5400,
 	  "imports" : [
+			"too2.Javelin",
+			"too2.Javelin",
+			"too2.DemonEdge"
 		]
 	},
 	{ "name" : "too.Daedalus",
 	  "size" : 5550,
 	  "imports" : [
+			"too2.DemonEdge",
 			"too.Crystalys"
 		]
 	},
 	{ "name" : "too.Butterfly",
 	  "size" : 5875,
 	  "imports" : [
+			"too2.Eaglesong",
+			"too2.TalismanOfEvasion",
 			"item.Quarterstaff"
 		]
 	},
 	{ "name" : "too.DivineRapier",
 	  "size" : 6200,
 	  "imports" : [
+			"too2.SacredRelic",
+			"too2.DemonEdge"
 		]
 	},
 	{ "name" : "too.AbyssalBlade",
@@ -378,12 +409,14 @@
 	  "size" : 2150,
 	  "imports" : [
 			"item.RingOfHealth",
+			"too2.VitalityBooster",
 			"item.StoutShield"
 		]
 	},
 	{ "name" : "too.BladeMail",
 	  "size" : 2200,
 	  "imports" : [
+			"too2.Broadsword",
 			"item.Chainmail",
 			"item.RobeOfTheMagi"
 		]
@@ -391,6 +424,9 @@
 	{ "name" : "too.SoulBooster",
 	  "size" : 3200,
 	  "imports" : [
+			"too2.PointBooster",
+			"too2.VitalityBooster",
+			"too2.EnergyBooster"
 		]
 	},
 	{ "name" : "too.CrimsonGuard",
@@ -410,12 +446,15 @@
 	{ "name" : "too.LotusOrb",
 	  "size" : 4050,
 	  "imports" : [
-			"too.Perseverance"
+			"too.Perseverance",
+			"too2.Platemail"
 		]
 	},
 	{ "name" : "too.ShivasGuard",
 	  "size" : 4700,
 	  "imports" : [
+			"too2.MysticStaff",
+			"too2.Platemail"
 		]
 	},
 	{ "name" : "too.Bloodstone",
@@ -428,34 +467,43 @@
 	{ "name" : "too.MantaStyle",
 	  "size" : 4950,
 	  "imports" : [
+			"too2.UltimateOrb",
 			"item.Yasha"
 		]
 	},
 	{ "name" : "too.LinkensSphere",
 	  "size" : 4800,
 	  "imports" : [
-			"too.Perseverance"
+			"too.Perseverance",
+			"too2.UltimateOrb"
 		]
 	},
 	{ "name" : "too.AssaultCuirass",
 	  "size" : 5250,
 	  "imports" : [
+			"too2.Platemail",
+			"too2.Hyperstone",
 			"item.Chainmail"
 		]
 	},
 	{ "name" : "too.HeartOfTarrasque",
 	  "size" : 5500,
 	  "imports" : [
+			"too2.Reaver",
+			"too2.VitalityBooster"
 		]
 	},
 	{ "name" : "too.MaskOfMadness",
 	  "size" : 1800,
 	  "imports" : [
+			"too2.MorbidMask"
 		]
 	},
 	{ "name" : "too.HelmOfTheDominator",
 	  "size" : 1800,
 	  "imports" : [
+			"too2.HelmOfIronWill",
+			"too2.MorbidMask"
 		]
 	},
 	{ "name" : "too.DragonLance",
@@ -497,7 +545,8 @@
 	{ "name" : "too.HeavensHalberd",
 	  "size" : 3850,
 	  "imports" : [
-			"item.Sange"
+			"item.Sange",
+			"too2.TalismanOfEvasion"
 		]
 	},
 	{ "name" : "too.SangeAndYasha",
@@ -510,6 +559,9 @@
 	{ "name" : "too.EyeOfSkadi",
 	  "size" : 5675,
 	  "imports" : [
+			"too2.UltimateOrb",
+			"too2.UltimateOrb",
+			"too2.PointBooster",
 			"item.OrbOfVenom"
 		]
 	},
@@ -523,15 +575,30 @@
 	{ "name" : "too.Mjollnir",
 	  "size" : 5600,
 	  "imports" : [
+			"too2.Hyperstone",
 			"too.Maelstrom"
 		]
 	},
 	{ "name" : "too.Satanic",
 	  "size" : 5950,
 	  "imports" : [
+			"too2.Reaver",
 			"too.HelmOfTheDominator"
 		]
 	},
+	{ "name": "item2.Clarity", "size" : 50, "imports" : [] },
+	{ "name": "item2.FaerieFire", "size" : 75, "imports" : [] },
+	{ "name": "item2.EnchantedMango", "size" : 125, "imports" : [] },
+	{ "name": "item2.Tango", "size" : 125, "imports" : [] },
+	{ "name": "item2.HealingSalve", "size" : 100, "imports" : [] },
+	{ "name": "item2.SmokeOfDeceit", "size" : 50, "imports" : [] },
+	{ "name": "item2.TownPortalScroll", "size" : 75, "imports" : [] },
+	{ "name": "item2.DustOfAppearance", "size" : 180, "imports" : [] },
+	{ "name": "item2.AnimalCourier", "size" : 100, "imports" : [] },
+	{ "name": "item2.FlyingCourier", "size" : 150, "imports" : [] },
+	{ "name": "item2.ObserverWard", "size" : 65, "imports" : [] },
+	{ "name": "item2.SentryWard", "size" : 200, "imports" : [] },
+	{ "name": "item2.Bottle", "size" : 660, "imports" : [] },
 	{ "name": "item.IronBranch", "size" : 50, "imports" : [] },
 	{ "name": "item.GauntletsOfStrength", "size" : 150, "imports" : [] },
 	{ "name": "item.SlippersOfAgility", "size" : 150, "imports" : [] },
@@ -549,7 +616,11 @@
 	{ "name": "item.StoutShield", "size" : 200, "imports" : [] },
 	{ "name": "item.BladesOfAttack", "size" : 420, "imports" : [] },
 	{ "name": "item.Chainmail", "size" : 550, "imports" : [] },
+	{ "name": "too2.HelmOfIronWill", "size" : 900, "imports" : [] },
+	{ "name": "too2.Broadsword", "size" : 1200, "imports" : [] },
 	{ "name": "item.Quarterstaff", "size" : 875, "imports" : [] },
+	{ "name": "too2.Claymore", "size" : 1400, "imports" : [] },
+	{ "name": "too2.Javelin", "size" : 1500, "imports" : [] },
 	{ "name": "owned.MithrilHammer", "size" : 1600, "imports" : [] },
 	{ "name": "item.MagicStick", "size" : 200, "imports" : [] },
 	{ "name": "item.SagesMask", "size" : 325, "imports" : [] },
@@ -558,5 +629,22 @@
 	{ "name": "item.GlovesOfHaste", "size" : 500, "imports" : [] },
 	{ "name": "item.Cloak", "size" : 550, "imports" : [] },
 	{ "name": "item.RingOfHealth", "size" : 850, "imports" : [] },
-	{ "name": "item.VoidStone", "size" : 850, "imports" : [] }
+	{ "name": "item.VoidStone", "size" : 850, "imports" : [] },
+	{ "name": "too2.GemOfTrueSight", "size" : 900, "imports" : [] },
+	{ "name": "too2.MorbidMask", "size" : 900, "imports" : [] },
+	{ "name": "too2.ShadowAmulet", "size" : 1400, "imports" : [] },
+	{ "name": "too2.GhostScepter", "size" : 1500, "imports" : [] },
+	{ "name": "too2.BlinkDagger", "size" : 2250, "imports" : [] },
+	{ "name": "too2.EnergyBooster", "size" : 900, "imports" : [] },
+	{ "name": "too2.VitalityBooster", "size" : 1100, "imports" : [] },
+	{ "name": "too2.PointBooster", "size" : 1200, "imports" : [] },
+	{ "name": "too2.Platemail", "size" : 1400, "imports" : [] },
+	{ "name": "too2.TalismanOfEvasion", "size" : 1800, "imports" : [] },
+	{ "name": "too2.Hyperstone", "size" : 2000, "imports" : [] },
+	{ "name": "too2.UltimateOrb", "size" : 2100, "imports" : [] },
+	{ "name": "too2.DemonEdge", "size" : 2400, "imports" : [] },
+	{ "name": "too2.MysticStaff", "size" : 2700, "imports" : [] },
+	{ "name": "too2.Reaver", "size" : 3000, "imports" : [] },
+	{ "name": "too2.Eaglesong", "size" : 3200, "imports" : [] },
+	{ "name": "too2.SacredRelic", "size" : 3800, "imports" : [] }
 ]
