@@ -62,15 +62,6 @@ d3.json("heatmap.json", function(error, heatmap) {
       .domain([95, 115, 135, 155, 175, 195])
       .range(["#0a0", "#6c0", "#ee0", "#eb4", "#eb9", "#fff"]);
 
-  var xAxis = d3.svg.axis()
-      .scale(x)
-      .orient("top")
-      .ticks(20);
-
-  var yAxis = d3.svg.axis()
-      .scale(y)
-      .orient("right");
-
   d3.select("body").append("canvas")
       .attr("width", dx)
       .attr("height", dy)

@@ -1,6 +1,6 @@
 import numpy as np
 
-def makeGaussian(size, fwhm = 3, center=[4.5, 4.5]):
+def makeGaussian(size, fwhm = 3, center=[8, 15.5]):
     """ Make a square gaussian kernel.
 
     size is the length of a side of the square
