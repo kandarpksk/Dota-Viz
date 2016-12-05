@@ -1,6 +1,6 @@
 import numpy as np
 
-def makeGaussian(size, fwhm = 3, center=None):
+def makeGaussian(size, fwhm = 3, center=[4.5, 4.5]):
     """ Make a square gaussian kernel.
 
     size is the length of a side of the square
@@ -25,7 +25,7 @@ def makeGaussian(size, fwhm = 3, center=None):
     	print '],',
 
 print '[',
-makeGaussian(10)
+makeGaussian(20)
 print ']'
 
 # python data.py | sed 's/, ]/ ]/g' | sed 's/, \[/,'$'\ \[/g' > heatmap.json
