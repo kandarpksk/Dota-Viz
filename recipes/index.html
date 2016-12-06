@@ -81,7 +81,10 @@
                 node = svg.append("g").selectAll(".node");
 
             d3.json("data.json", function(error, classes) {
-            // d3.json("data2.json", function(error, classes) {
+            
+            // too expensive dependent (entirely) on too expensive shown too
+            // d3.json("all.json", function(error, classes) {
+            
               if (error) throw error;
 
               var nodes = cluster.nodes(packageHierarchy(classes)),

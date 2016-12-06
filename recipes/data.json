@@ -513,13 +513,6 @@
 			"item.OrbOfVenom"
 		]
 	},
-	{ "name" : "item.Yasha",
-	  "size" : 2050,
-	  "imports" : [
-			"owned.BladeOfAlacrity",
-			"owned.BandOfElvenskin"
-		]
-	},
 	{ "name" : "too.Mjollnir",
 	  "size" : 5600,
 	  "imports" : [
@@ -560,6 +553,13 @@
 	{ "name": "item.RingOfProtection", "size" : 175, "imports" : [] },
 	{ "name": "item.QuellingBlade", "size" : 200, "imports" : [] },
 	{ "name": "item.OrbOfVenom", "size" : 275, "imports" : [] },
+	{ "name" : "item.Yasha",
+	  "size" : 2050,
+	  "imports" : [
+			"owned.BladeOfAlacrity",
+			"owned.BandOfElvenskin"
+		]
+	},
 	{ "name": "item.StoutShield", "size" : 200, "imports" : [] },
 	{ "name": "item.BladesOfAttack", "size" : 420, "imports" : [] },
 	{ "name": "item.Chainmail", "size" : 550, "imports" : [] },
